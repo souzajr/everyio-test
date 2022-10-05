@@ -1,0 +1,6 @@
+version: '1'
+services:
+  sample-app:
+    image: sample-app
+    ports:
+      - "3000:3000"
